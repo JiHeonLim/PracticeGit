@@ -1,0 +1,6 @@
+It was the best time. 
+
+git init
+ls -a
+git status
+git add chapter1.txt
